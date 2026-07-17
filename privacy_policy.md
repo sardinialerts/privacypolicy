@@ -2,7 +2,7 @@
 
 **Ultimo aggiornamento:** [DATA]
 
-SardiniAlert ("l'app", "il Servizio") è sviluppata da AlertStudios ("noi"). Questa informativa descrive quali dati raccogliamo, perché, e come vengono trattati.
+SardiniAlert è sviluppata da SardiniAlert. Questa informativa descrive quali dati raccogliamo, perché, e come vengono trattati.
 
 ## Dati che raccogliamo
 
