@@ -1,6 +1,6 @@
 # Informativa sulla Privacy — SardiniAlert
 
-**Ultimo aggiornamento:** [DATA]
+**Ultimo aggiornamento:** 17-07-2026
 
 SardiniAlert è sviluppata da SardiniAlert. Questa informativa descrive quali dati raccogliamo, perché, e come vengono trattati.
 
